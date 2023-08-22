@@ -1,0 +1,14 @@
+{
+  "resources": [
+    {
+      "name": "phrases",
+      "type": "table",
+      "path": "data/phrases.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": "schemas/schema_v1.json"
+    }
+  ]
+}
