@@ -1,0 +1,2 @@
+ipdb==0.13.13
+frictionless==5.15.10
